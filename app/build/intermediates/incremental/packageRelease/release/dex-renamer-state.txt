@@ -1,0 +1,4 @@
+#Tue Mar 12 17:06:47 CST 2019
+base.0=D\:\\AndroidStudioProject\\sdkdemo\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=D\:\\AndroidStudioProject\\sdkdemo\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
