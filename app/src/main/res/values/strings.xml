@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">移动办公</string>
+    <string name="app_name">移动办公系统</string>
     <string name="logining">登录中...</string>
     <string name="vpnLogin">VPN登录不支持自动登录</string>
     <string name="title_content">移动办公系统</string>
-    <string name="title_header">东莞市司法局</string>
+    <string name="title_header">滨海湾新区</string>
 
     <string name="test_http_proxy">Test Http Proxy</string>
     <string name="test_socket_proxy">Test Socket Proxy</string>

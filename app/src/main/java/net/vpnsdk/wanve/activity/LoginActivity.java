@@ -6,6 +6,7 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.os.Handler;
 import android.os.Message;
@@ -83,7 +84,6 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
      * 获取控件id
      */
     private void initView() {
-
         AppManager.getAppManager().addActivity(LoginActivity.this);
 
         findViewById(R.id.llVpn).setOnClickListener(this);
@@ -139,6 +139,18 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
                 SpUtil.putBoolean(getApplicationContext(), Constant.VPN_AUTO, isChecked);
             }
         });
+
+
+        TextView tvVsersion = findViewById(R.id.tvVersion);
+        PackageManager packageManager = getPackageManager();
+        PackageInfo packInfo = null;
+        try {
+            packInfo = packageManager.getPackageInfo(getPackageName(), 0);
+        } catch (PackageManager.NameNotFoundException e) {
+            e.printStackTrace();
+        }
+        String version = packInfo.versionName;
+        tvVsersion.setText("V："+version);
     }
 
     @Override
@@ -351,6 +363,9 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         }
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.SEND_SMS) != PackageManager.PERMISSION_GRANTED) {
             permissionList.add(Manifest.permission.SEND_SMS);
+        }
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.READ_SMS) != PackageManager.PERMISSION_GRANTED) {
+            permissionList.add(Manifest.permission.READ_SMS);
         }
         if (!permissionList.isEmpty()) {  //申请的集合不为空时，表示有需要申请的权限
             ActivityCompat.requestPermissions(this, permissionList.toArray(new String[permissionList.size()]), 1);

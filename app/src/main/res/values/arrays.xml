@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="swj">
-        <item>水务局</item>
-        <item></item>
+        <item>水务局</item><!--桌面-->
+        <item>水务局智慧政务</item><!--登录头1-->
+        <item>移动办公系统</item><!--登录头2-->
         <item>http://19.104.11.182:80</item>
     </string-array>
 
@@ -64,4 +65,12 @@
         <item>移动办公系统</item><!--登录页2-->
         <item>http://19.106.174.9</item><!--ip地址-->
     </string-array>
+
+    <string-array name="com.agewnet.zscxb">
+        <item>投资促进局</item><!--桌面-->
+        <item>东莞市投资促进局</item><!--登录页1-->
+        <item>移动办公系统</item><!--登录页2-->
+        <item>http://19.104.39.10</item><!--ip地址-->
+    </string-array>
+
 </resources>

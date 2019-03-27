@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
 MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\3711a639c67532ec301f6488e7ce310b\AndroidManifest.xml:15:1-21:12
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\bb84abf324d689e6f46d8d82721a6778\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.support:support-v13:28.0.0] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\355f40ad439b5c3351b4bf1a02e4c5cc\AndroidManifest.xml:17:1-22:12
@@ -36,22 +36,22 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Wanve4K\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1687a0f83a14370f61edf73d8732b991\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\63f569efb9cf9b2bb485efbec4c79faf\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\adfb70f7dfb667c93269a4a3c7ea1dab\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
 	package
 		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:4:5-30
 		INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
 		INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-86:12
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:1-94:12
 		INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:2:11-69
@@ -119,8 +119,16 @@ uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
 ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:21:5-88
 	android:name
 		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:21:22-85
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:24:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:25:22-64
 application
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:23:5-84:19
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:27:5-92:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b407ef24e92304664609a9a62e5e8ae3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b407ef24e92304664609a9a62e5e8ae3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9ab13e779ea35f5b9605d70acaa067cd\AndroidManifest.xml:22:5-94
@@ -130,113 +138,121 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Wanve4K\.g
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Wanve4K\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9ab13e779ea35f5b9605d70acaa067cd\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:27:9-41
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:31:9-41
 	tools:ignore
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:30:9-48
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:34:9-48
 	android:icon
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:26:9-36
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:30:9-41
 	android:allowBackup
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:25:9-36
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:29:9-36
 	android:theme
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:28:9-40
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:32:9-40
 	android:usesCleartextTraffic
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:29:9-44
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:33:9-44
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:24:9-49
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:28:9-49
 provider#android.support.v4.content.FileProvider
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:32:9-40:20
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:35:9-43:20
 	android:grantUriPermissions
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:36:13-47
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:39:13-47
 	android:authorities
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:34:13-63
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:37:13-62
 	android:exported
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:35:13-37
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:33:13-67
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:36:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:37:13-39:53
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:40:13-42:53
 	android:resource
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:39:17-50
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:42:17-50
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:38:17-67
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:41:17-67
 activity#net.vpnsdk.wanve.activity.SplashActivity
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:42:9-51:20
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:45:9-54:20
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:45:13-49
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:48:13-49
 	android:label
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:44:13-45
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:47:13-45
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:43:13-68
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:46:13-68
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:46:13-50:29
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:49:13-53:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:47:17-69
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:50:17-69
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:47:25-66
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:50:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:49:17-77
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:52:17-77
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:49:27-74
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:52:27-74
 activity#net.vpnsdk.demo.LoginSdkActivity
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:52:9-54:46
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:55:9-57:46
 	android:launchMode
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:54:13-43
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:57:13-43
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:53:13-45
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:56:13-45
 service#net.vpnsdk.vpn.SDKVpnService
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:56:9-65:19
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:59:9-68:19
 	android:exported
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:58:13-37
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:61:13-37
 	android:permission
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:59:13-69
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:62:13-69
 	android:stopWithTask
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:60:13-41
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:63:13-41
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:57:13-56
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:60:13-56
 intent-filter#android.net.VpnService+net.vpnsdk.vpn.VPN_SERVICE
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:61:13-64:29
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:64:13-67:29
 action#net.vpnsdk.vpn.VPN_SERVICE
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:62:17-69
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:65:17-69
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:62:25-66
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:65:25-66
 action#android.net.VpnService
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:63:17-65
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:66:17-65
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:63:25-62
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:66:25-62
 activity#net.vpnsdk.vpn.L3VpnStartDialog
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:67:9-70:54
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:70:9-73:54
 	android:excludeFromRecents
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:69:13-46
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:72:13-46
 	android:theme
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:70:13-51
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:73:13-51
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:68:13-59
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:71:13-59
 activity#net.vpnsdk.wanve.activity.WebActivity
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:71:9-74:77
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:74:9-77:46
 	android:launchMode
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:72:13-43
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:77:13-43
 	android:configChanges
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:74:13-74
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:76:13-74
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:73:13-65
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:75:13-65
 activity#net.vpnsdk.wanve.activity.LoginActivity
-ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:75:9-77:77
-	android:configChanges
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:77:13-74
-	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:76:13-67
-activity#net.vpnsdk.wanve.activity.VpnLoginActivity
 ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:78:9-80:77
 	android:configChanges
 		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:80:13-74
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:79:13-70
-activity#net.vpnsdk.wanve.activity.Web2Activity
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:79:13-67
+activity#net.vpnsdk.wanve.activity.VpnLoginActivity
 ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:81:9-83:77
 	android:configChanges
 		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:83:13-74
 	android:name
-		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:82:13-66
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:82:13-70
+activity#net.vpnsdk.wanve.activity.Web2Activity
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:84:9-86:77
+	android:configChanges
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:86:13-74
+	android:name
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:85:13-66
+receiver#net.vpnsdk.wanve.receiver.SmsReceiver
+ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:88:9-91:38
+	android:enabled
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:90:13-35
+	android:exported
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:91:13-36
+	android:name
+		ADDED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml:89:13-65
 uses-sdk
 INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndroidStudioProject\sdkdemo\app\src\main\AndroidManifest.xml

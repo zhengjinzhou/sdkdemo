@@ -49,6 +49,8 @@ public class SplashActivity extends AppCompatActivity implements SelectContract.
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
+     //   initTest();
+
         presenter.attachView(this);
         presenter.getAppInfo();
 
@@ -115,6 +117,17 @@ public class SplashActivity extends AppCompatActivity implements SelectContract.
         }
     }
 
+    private void initTest() {
+        double sum = 1.3;
+        for(int i=1;i<=4*9;i++){
+            sum = sum * 1.25;
+            System.out.println(sum);
+            if(i%4==0){
+                System.out.println("====第"+((i/4)+4)+"个月====");
+            }
+        }
+    }
+
     /**
      * 启动
      */
@@ -146,8 +159,7 @@ public class SplashActivity extends AppCompatActivity implements SelectContract.
         String mCertPass;
         int mFlag;
 
-        public StartVpnThread(String host, int port, String username,
-                              String password, String certpath, String certpass, int flag) {
+        public StartVpnThread(String host, int port, String username, String password, String certpath, String certpass, int flag) {
             mHost = host;
             mPort = port;
             mUserName = username;

@@ -16,12 +16,12 @@
         android:paddingTop="50dp">
 
         <ImageView
-            android:layout_width="88dp"
-            android:layout_height="88dp"
-            android:src="@mipmap/sfj" />
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/changping" />
 
         <TextView
-
+            android:visibility="gone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -160,6 +160,7 @@
             android:textSize="18sp" />
 
         <TextView
+            android:layout_marginTop="@dimen/dp_16"
             android:id="@+id/tvVersion"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -167,6 +168,7 @@
             android:textColor="#fff" />
 
         <LinearLayout
+           android:paddingTop="@dimen/dp_16"
             android:layout_gravity="right"
             android:id="@+id/llVpn"
             android:layout_width="wrap_content"

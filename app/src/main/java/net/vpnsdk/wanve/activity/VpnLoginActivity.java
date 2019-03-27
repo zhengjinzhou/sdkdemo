@@ -1,5 +1,6 @@
 package net.vpnsdk.wanve.activity;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
@@ -24,6 +25,7 @@ import android.widget.Toast;
 import net.vpnsdk.demo.R;
 import net.vpnsdk.wanve.base.Constant;
 import net.vpnsdk.wanve.bean.VpnSelectBean;
+import net.vpnsdk.wanve.utils.CheckPhoneUtil;
 import net.vpnsdk.wanve.utils.CountDownTimerUtils;
 import net.vpnsdk.wanve.utils.SpUtil;
 import net.vpnsdk.wanve.utils.ToastUtil;
@@ -99,8 +101,6 @@ public class VpnLoginActivity extends AppCompatActivity implements View.OnClickL
             radioNo.setChecked(vpnSelectBean.isNo());
         }
 
-
-
         findViewById(R.id.btSure).setOnClickListener(this);
 
         //处理返回的发送状态
@@ -160,9 +160,6 @@ public class VpnLoginActivity extends AppCompatActivity implements View.OnClickL
                 etVpnPsd.setSelection(etVpnPsd.getText().toString().length());
                 break;
             case R.id.btSure:
-
-                Log.d(TAG, "onClick: ----isVpn---- "+isVpn);
-
                 String VpnUser = etVpnUser.getText().toString();
                 String VpnPsd = etVpnPsd.getText().toString();
 
@@ -171,12 +168,10 @@ public class VpnLoginActivity extends AppCompatActivity implements View.OnClickL
                 if (isVpn) {
                     if (TextUtils.isEmpty(VpnUser)){
                         ToastUtil.show(getApplicationContext(),"vpn账号不能为空");
-                        // tvTip.setText("vpn账号不能为空");
                         return;
                     }
                     if (TextUtils.isEmpty(VpnPsd)){
                         ToastUtil.show(getApplicationContext(),"vpn密码不能为空");
-                        //tvTip.setText("vpn密码不能为空");
                         return;
                     }
                     tvTip.setText("");
@@ -188,7 +183,6 @@ public class VpnLoginActivity extends AppCompatActivity implements View.OnClickL
                 CountDownTimerUtils timerUtils = new CountDownTimerUtils(btCode, 60000, 1000);
                 timerUtils.start();
 
-                //sendSMS("106350123333777", "mm");
                 getSimState(0);
                 getSimState(1);
 
@@ -212,7 +206,6 @@ public class VpnLoginActivity extends AppCompatActivity implements View.OnClickL
         Log.d(TAG, "getSimState: ----------------------------");
         TelephonyManager mTelephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
         Class<TelephonyManager> clz = (Class<TelephonyManager>) mTelephonyManager.getClass();
-
         int status = 0;
         try {
             Method mtd = clz.getMethod("getSimState", int.class);
@@ -229,7 +222,24 @@ public class VpnLoginActivity extends AppCompatActivity implements View.OnClickL
         }
         Log.d(TAG, "getSimState: "+status);
         if (status==TelephonyManager.SIM_STATE_READY){
-            sendSMS("106350123333777", "mm ");
+            @SuppressLint("MissingPermission")
+            String line1Number = mTelephonyManager.getLine1Number();
+            Log.d(TAG, "getSimState: "+line1Number);
+            //电信
+            if (CheckPhoneUtil.isChinaTelecomPhoneNum(line1Number)){
+                Log.d(TAG, "getSimState: 电信");
+                sendSMS(Constant.PhoneVpnDx, "mm");
+            }
+            else if (CheckPhoneUtil.isChinaUnicomPhoneNum(line1Number)){
+                //联通
+                Log.d(TAG, "getSimState: 联通");
+                sendSMS(Constant.PhoneVpnLt, "mm");
+            }else {
+                Log.d(TAG, "getSimState: 移动");
+                //移动
+                sendSMS(Constant.PhoneVpn, "mm");
+            }
+
         }
     }
 
@@ -256,7 +266,6 @@ public class VpnLoginActivity extends AppCompatActivity implements View.OnClickL
         switch (requestCode) {
             case 1:
                 if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                    //sendSMS("106350123333777", "mm");
                     getSimState(0);
                     getSimState(1);
                 } else {

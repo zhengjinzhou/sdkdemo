@@ -296,7 +296,7 @@ public class WebActivity extends AppCompatActivity {
                 switch (mType) {
                     case "openfile":
                         //如果没有安装wps
-                       /* if (!WpsUtil.checkWps(getApplicationContext())) {
+                       /*if (!WpsUtil.checkWps(getApplicationContext())) {
                             ToastUtil.show(getApplicationContext(),"请安装WPS软件！");
                             return;
                         }*/
@@ -307,8 +307,6 @@ public class WebActivity extends AppCompatActivity {
                     case "ViewDocument":
                         //初始化iAppOffice, 注：先设置授权码，后调用init();
                         iappoffice = new IAppOffice(WebActivity.this);
-
-
                         LookDocBean lookDocBean = gs.fromJson(json, LookDocBean.class);
                         final String path = lookDocBean.getParams().getPath();
                         //如果本地存在该文件，则删除应该可以解决了吧
@@ -382,7 +380,7 @@ public class WebActivity extends AppCompatActivity {
 
                                         iappoffice.setCopyRight(GetFWNGKeySN);//注册金格
                                         iappoffice.init();
-                                        iappoffice.setFileProviderAuthor("com.agewnet.sfj.fileProvider");
+                                        iappoffice.setFileProviderAuthor("net.vpnsdk.cpz.fileProvider");
                                         iappoffice.setReadOnly(true);
                                         iappoffice.setIsReviseMode(false);
                                         iappoffice.setSerialNumber(GetWPSKeySN);//激活wps
@@ -520,7 +518,7 @@ public class WebActivity extends AppCompatActivity {
 
                                         iappoffice.setCopyRight(GetFWNGKeySN);//注册金格
                                         iappoffice.init();
-                                        iappoffice.setFileProviderAuthor("com.agewnet.sfj.fileProvider");
+                                        iappoffice.setFileProviderAuthor("net.vpnsdk.cpz.fileProvider");
                                         iappoffice.setReadOnly(false);
                                         iappoffice.setIsReviseMode(true);
                                         //禁止手写功能
@@ -538,7 +536,6 @@ public class WebActivity extends AppCompatActivity {
                         guid = typeBean.getParams().getGuid();
                         //设置编辑留痕人名
                         iappoffice.setUserName(typeBean.getParams().getName());
-
                         // 指定下载地址
                         DownloadManager.Request request = new DownloadManager.Request(Uri.parse(url));
                         // 允许媒体扫描，根据下载的文件类型被加入相册、音乐等媒体库

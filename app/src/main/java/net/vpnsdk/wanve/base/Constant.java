@@ -11,12 +11,16 @@ public class Constant {
     public static final String vpnAccount = "VPNACCOUNT";//vpn的账号密码
     public static final String Account = "Account";//账号密码 19.104.9.73   zgdgswtzb
 
-    public static final String BASE_URL = "http://19.106.174.9";
+    public static final String BASE_URL = "http://19.104.39.59";
 
     public static final String ACCOUNT_USER = "ACCOUNT_USER";
     public static final String ACCOUNT_PSD = "ACCOUNT_PSD";
     public static final String AppInfo = "AppInfo";
 
+    public static final String PhoneVpn = "106575550323770";//移动
+    public static final String PhoneVpnDx = "1065988590200010770";//电信
+    public static final String PhoneVpnLt = "106550200942770";//联通
+    //
     public static final String ACCOUNT_SysID = "&SysID=K7q/DW5GAsVjobMbiMkbI8hKOQn3kb7S1GTM2KaKiCY=";
 
     public static final String VPN_AUTO = "VPN_AUTO";//自动登录

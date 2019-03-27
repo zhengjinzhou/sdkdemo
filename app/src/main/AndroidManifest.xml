@@ -20,18 +20,21 @@
     <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
     <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
 
+    <!-- 短信相关 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
     <application
         android:name="net.vpnsdk.wanve.base.App"
         android:allowBackup="false"
-        android:icon="@mipmap/logo"
+        android:icon="@mipmap/changping"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.agewnet.sfj.fileProvider"
+            android:authorities="net.vpnsdk.cpz.fileProvider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
@@ -69,9 +72,9 @@
             android:excludeFromRecents="true"
             android:theme="@style/CustomNoDisplay" />
         <activity
-            android:launchMode="singleTop"
             android:name="net.vpnsdk.wanve.activity.WebActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize" />
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTop" />
         <activity
             android:name="net.vpnsdk.wanve.activity.LoginActivity"
             android:configChanges="keyboardHidden|orientation|screenSize" />
@@ -81,6 +84,11 @@
         <activity
             android:name="net.vpnsdk.wanve.activity.Web2Activity"
             android:configChanges="keyboardHidden|orientation|screenSize" />
+
+        <receiver
+            android:name="net.vpnsdk.wanve.receiver.SmsReceiver"
+            android:enabled="true"
+            android:exported="true"/>
     </application>
 
 </manifest>

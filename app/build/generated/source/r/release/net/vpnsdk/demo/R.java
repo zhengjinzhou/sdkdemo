@@ -23,17 +23,18 @@ public final class R {
     public static final int abc_tooltip_exit=0x7f01000b;
   }
   public static final class array {
-    public static final int cpz=0x7f020000;
-    public static final int dgsbhwxqgwh=0x7f020001;
-    public static final int dgsghjwjlzxt=0x7f020002;
-    public static final int dgzx=0x7f020003;
-    public static final int hmyz=0x7f020004;
-    public static final int huambo=0x7f020005;
-    public static final int nongyeju=0x7f020006;
-    public static final int sfj=0x7f020007;
-    public static final int sslgcj=0x7f020008;
-    public static final int swj=0x7f020009;
-    public static final int tx=0x7f02000a;
+    public static final int com_agewnet_zscxb=0x7f020000;
+    public static final int cpz=0x7f020001;
+    public static final int dgsbhwxqgwh=0x7f020002;
+    public static final int dgsghjwjlzxt=0x7f020003;
+    public static final int dgzx=0x7f020004;
+    public static final int hmyz=0x7f020005;
+    public static final int huambo=0x7f020006;
+    public static final int nongyeju=0x7f020007;
+    public static final int sfj=0x7f020008;
+    public static final int sslgcj=0x7f020009;
+    public static final int swj=0x7f02000a;
+    public static final int tx=0x7f02000b;
   }
   public static final class attr {
     /**
@@ -3221,108 +3222,109 @@ public final class R {
     public static final int line1=0x7f080065;
     public static final int line3=0x7f080066;
     public static final int listMode=0x7f080067;
-    public static final int list_item=0x7f080068;
-    public static final int llVpn=0x7f080069;
-    public static final int load_object=0x7f08006a;
-    public static final int media_actions=0x7f08006b;
-    public static final int message=0x7f08006c;
-    public static final int method=0x7f08006d;
-    public static final int middle=0x7f08006e;
-    public static final int multi_login_password1=0x7f08006f;
-    public static final int multi_login_password2=0x7f080070;
-    public static final int multi_login_password3=0x7f080071;
-    public static final int multi_login_password4=0x7f080072;
-    public static final int multi_login_password5=0x7f080073;
-    public static final int multiply=0x7f080074;
-    public static final int never=0x7f080075;
-    public static final int none=0x7f080076;
-    public static final int normal=0x7f080077;
-    public static final int notification_background=0x7f080078;
-    public static final int notification_main_column=0x7f080079;
-    public static final int notification_main_column_container=0x7f08007a;
-    public static final int packed=0x7f08007b;
-    public static final int parent=0x7f08007c;
-    public static final int parentPanel=0x7f08007d;
-    public static final int percent=0x7f08007e;
-    public static final int position=0x7f08007f;
-    public static final int progress_circular=0x7f080080;
-    public static final int progress_horizontal=0x7f080081;
-    public static final int radio=0x7f080082;
-    public static final int radioGroup=0x7f080083;
-    public static final int radioNo=0x7f080084;
-    public static final int radioYes=0x7f080085;
-    public static final int right=0x7f080086;
-    public static final int right_icon=0x7f080087;
-    public static final int right_side=0x7f080088;
-    public static final int screen=0x7f080089;
-    public static final int scrollIndicatorDown=0x7f08008a;
-    public static final int scrollIndicatorUp=0x7f08008b;
-    public static final int scrollView=0x7f08008c;
-    public static final int search_badge=0x7f08008d;
-    public static final int search_bar=0x7f08008e;
-    public static final int search_button=0x7f08008f;
-    public static final int search_close_btn=0x7f080090;
-    public static final int search_edit_frame=0x7f080091;
-    public static final int search_go_btn=0x7f080092;
-    public static final int search_mag_icon=0x7f080093;
-    public static final int search_plate=0x7f080094;
-    public static final int search_src_text=0x7f080095;
-    public static final int search_voice_btn=0x7f080096;
-    public static final int select_dialog_listview=0x7f080097;
-    public static final int shortcut=0x7f080098;
-    public static final int showCustom=0x7f080099;
-    public static final int showHome=0x7f08009a;
-    public static final int showTitle=0x7f08009b;
-    public static final int spacer=0x7f08009c;
-    public static final int spin_item_method=0x7f08009d;
-    public static final int spin_methods=0x7f08009e;
-    public static final int split_action_bar=0x7f08009f;
-    public static final int spread=0x7f0800a0;
-    public static final int spread_inside=0x7f0800a1;
-    public static final int src_atop=0x7f0800a2;
-    public static final int src_in=0x7f0800a3;
-    public static final int src_over=0x7f0800a4;
-    public static final int standard=0x7f0800a5;
-    public static final int start=0x7f0800a6;
-    public static final int status_bar_latest_event_content=0x7f0800a7;
-    public static final int submenuarrow=0x7f0800a8;
-    public static final int submit_area=0x7f0800a9;
-    public static final int tabMode=0x7f0800aa;
-    public static final int tab_view=0x7f0800ab;
-    public static final int tag_transition_group=0x7f0800ac;
-    public static final int tag_unhandled_key_event_manager=0x7f0800ad;
-    public static final int tag_unhandled_key_listeners=0x7f0800ae;
-    public static final int text=0x7f0800af;
-    public static final int text2=0x7f0800b0;
-    public static final int textConfiguration=0x7f0800b1;
-    public static final int textDeviceId=0x7f0800b2;
-    public static final int textPass=0x7f0800b3;
-    public static final int textServer=0x7f0800b4;
-    public static final int textSpacerNoButtons=0x7f0800b5;
-    public static final int textSpacerNoTitle=0x7f0800b6;
-    public static final int textStatus=0x7f0800b7;
-    public static final int textUser=0x7f0800b8;
-    public static final int time=0x7f0800b9;
-    public static final int title=0x7f0800ba;
-    public static final int titleDividerNoCustom=0x7f0800bb;
-    public static final int title_template=0x7f0800bc;
-    public static final int top=0x7f0800bd;
-    public static final int topPanel=0x7f0800be;
-    public static final int tvLoad=0x7f0800bf;
-    public static final int tvTip=0x7f0800c0;
-    public static final int tvVersion=0x7f0800c1;
-    public static final int txtDevicenameMultiLogin=0x7f0800c2;
-    public static final int txtMethods=0x7f0800c3;
-    public static final int txtTitle=0x7f0800c4;
-    public static final int txtUsernameMultiLogin=0x7f0800c5;
-    public static final int txtValidCode=0x7f0800c6;
-    public static final int uniform=0x7f0800c7;
-    public static final int up=0x7f0800c8;
-    public static final int useLogo=0x7f0800c9;
-    public static final int webView=0x7f0800ca;
-    public static final int withText=0x7f0800cb;
-    public static final int wrap=0x7f0800cc;
-    public static final int wrap_content=0x7f0800cd;
+    public static final int listView=0x7f080068;
+    public static final int list_item=0x7f080069;
+    public static final int llVpn=0x7f08006a;
+    public static final int load_object=0x7f08006b;
+    public static final int media_actions=0x7f08006c;
+    public static final int message=0x7f08006d;
+    public static final int method=0x7f08006e;
+    public static final int middle=0x7f08006f;
+    public static final int multi_login_password1=0x7f080070;
+    public static final int multi_login_password2=0x7f080071;
+    public static final int multi_login_password3=0x7f080072;
+    public static final int multi_login_password4=0x7f080073;
+    public static final int multi_login_password5=0x7f080074;
+    public static final int multiply=0x7f080075;
+    public static final int never=0x7f080076;
+    public static final int none=0x7f080077;
+    public static final int normal=0x7f080078;
+    public static final int notification_background=0x7f080079;
+    public static final int notification_main_column=0x7f08007a;
+    public static final int notification_main_column_container=0x7f08007b;
+    public static final int packed=0x7f08007c;
+    public static final int parent=0x7f08007d;
+    public static final int parentPanel=0x7f08007e;
+    public static final int percent=0x7f08007f;
+    public static final int position=0x7f080080;
+    public static final int progress_circular=0x7f080081;
+    public static final int progress_horizontal=0x7f080082;
+    public static final int radio=0x7f080083;
+    public static final int radioGroup=0x7f080084;
+    public static final int radioNo=0x7f080085;
+    public static final int radioYes=0x7f080086;
+    public static final int right=0x7f080087;
+    public static final int right_icon=0x7f080088;
+    public static final int right_side=0x7f080089;
+    public static final int screen=0x7f08008a;
+    public static final int scrollIndicatorDown=0x7f08008b;
+    public static final int scrollIndicatorUp=0x7f08008c;
+    public static final int scrollView=0x7f08008d;
+    public static final int search_badge=0x7f08008e;
+    public static final int search_bar=0x7f08008f;
+    public static final int search_button=0x7f080090;
+    public static final int search_close_btn=0x7f080091;
+    public static final int search_edit_frame=0x7f080092;
+    public static final int search_go_btn=0x7f080093;
+    public static final int search_mag_icon=0x7f080094;
+    public static final int search_plate=0x7f080095;
+    public static final int search_src_text=0x7f080096;
+    public static final int search_voice_btn=0x7f080097;
+    public static final int select_dialog_listview=0x7f080098;
+    public static final int shortcut=0x7f080099;
+    public static final int showCustom=0x7f08009a;
+    public static final int showHome=0x7f08009b;
+    public static final int showTitle=0x7f08009c;
+    public static final int spacer=0x7f08009d;
+    public static final int spin_item_method=0x7f08009e;
+    public static final int spin_methods=0x7f08009f;
+    public static final int split_action_bar=0x7f0800a0;
+    public static final int spread=0x7f0800a1;
+    public static final int spread_inside=0x7f0800a2;
+    public static final int src_atop=0x7f0800a3;
+    public static final int src_in=0x7f0800a4;
+    public static final int src_over=0x7f0800a5;
+    public static final int standard=0x7f0800a6;
+    public static final int start=0x7f0800a7;
+    public static final int status_bar_latest_event_content=0x7f0800a8;
+    public static final int submenuarrow=0x7f0800a9;
+    public static final int submit_area=0x7f0800aa;
+    public static final int tabMode=0x7f0800ab;
+    public static final int tab_view=0x7f0800ac;
+    public static final int tag_transition_group=0x7f0800ad;
+    public static final int tag_unhandled_key_event_manager=0x7f0800ae;
+    public static final int tag_unhandled_key_listeners=0x7f0800af;
+    public static final int text=0x7f0800b0;
+    public static final int text2=0x7f0800b1;
+    public static final int textConfiguration=0x7f0800b2;
+    public static final int textDeviceId=0x7f0800b3;
+    public static final int textPass=0x7f0800b4;
+    public static final int textServer=0x7f0800b5;
+    public static final int textSpacerNoButtons=0x7f0800b6;
+    public static final int textSpacerNoTitle=0x7f0800b7;
+    public static final int textStatus=0x7f0800b8;
+    public static final int textUser=0x7f0800b9;
+    public static final int time=0x7f0800ba;
+    public static final int title=0x7f0800bb;
+    public static final int titleDividerNoCustom=0x7f0800bc;
+    public static final int title_template=0x7f0800bd;
+    public static final int top=0x7f0800be;
+    public static final int topPanel=0x7f0800bf;
+    public static final int tvLoad=0x7f0800c0;
+    public static final int tvTip=0x7f0800c1;
+    public static final int tvVersion=0x7f0800c2;
+    public static final int txtDevicenameMultiLogin=0x7f0800c3;
+    public static final int txtMethods=0x7f0800c4;
+    public static final int txtTitle=0x7f0800c5;
+    public static final int txtUsernameMultiLogin=0x7f0800c6;
+    public static final int txtValidCode=0x7f0800c7;
+    public static final int uniform=0x7f0800c8;
+    public static final int up=0x7f0800c9;
+    public static final int useLogo=0x7f0800ca;
+    public static final int webView=0x7f0800cb;
+    public static final int withText=0x7f0800cc;
+    public static final int wrap=0x7f0800cd;
+    public static final int wrap_content=0x7f0800ce;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
@@ -3362,32 +3364,33 @@ public final class R {
     public static final int abc_tooltip=0x7f0a001b;
     public static final int activity_login=0x7f0a001c;
     public static final int activity_splash=0x7f0a001d;
-    public static final int activity_vpn_login=0x7f0a001e;
-    public static final int activity_web=0x7f0a001f;
-    public static final int activity_web2=0x7f0a0020;
-    public static final int dialog_layout=0x7f0a0021;
-    public static final int login_multi_steps=0x7f0a0022;
-    public static final int main=0x7f0a0023;
-    public static final int notification_action=0x7f0a0024;
-    public static final int notification_action_tombstone=0x7f0a0025;
-    public static final int notification_media_action=0x7f0a0026;
-    public static final int notification_media_cancel_action=0x7f0a0027;
-    public static final int notification_template_big_media=0x7f0a0028;
-    public static final int notification_template_big_media_custom=0x7f0a0029;
-    public static final int notification_template_big_media_narrow=0x7f0a002a;
-    public static final int notification_template_big_media_narrow_custom=0x7f0a002b;
-    public static final int notification_template_custom_big=0x7f0a002c;
-    public static final int notification_template_icon_group=0x7f0a002d;
-    public static final int notification_template_lines_media=0x7f0a002e;
-    public static final int notification_template_media=0x7f0a002f;
-    public static final int notification_template_media_custom=0x7f0a0030;
-    public static final int notification_template_part_chronometer=0x7f0a0031;
-    public static final int notification_template_part_time=0x7f0a0032;
-    public static final int select_dialog_item_material=0x7f0a0033;
-    public static final int select_dialog_multichoice_material=0x7f0a0034;
-    public static final int select_dialog_singlechoice_material=0x7f0a0035;
-    public static final int spinner_method=0x7f0a0036;
-    public static final int support_simple_spinner_dropdown_item=0x7f0a0037;
+    public static final int activity_test=0x7f0a001e;
+    public static final int activity_vpn_login=0x7f0a001f;
+    public static final int activity_web=0x7f0a0020;
+    public static final int activity_web2=0x7f0a0021;
+    public static final int dialog_layout=0x7f0a0022;
+    public static final int login_multi_steps=0x7f0a0023;
+    public static final int main=0x7f0a0024;
+    public static final int notification_action=0x7f0a0025;
+    public static final int notification_action_tombstone=0x7f0a0026;
+    public static final int notification_media_action=0x7f0a0027;
+    public static final int notification_media_cancel_action=0x7f0a0028;
+    public static final int notification_template_big_media=0x7f0a0029;
+    public static final int notification_template_big_media_custom=0x7f0a002a;
+    public static final int notification_template_big_media_narrow=0x7f0a002b;
+    public static final int notification_template_big_media_narrow_custom=0x7f0a002c;
+    public static final int notification_template_custom_big=0x7f0a002d;
+    public static final int notification_template_icon_group=0x7f0a002e;
+    public static final int notification_template_lines_media=0x7f0a002f;
+    public static final int notification_template_media=0x7f0a0030;
+    public static final int notification_template_media_custom=0x7f0a0031;
+    public static final int notification_template_part_chronometer=0x7f0a0032;
+    public static final int notification_template_part_time=0x7f0a0033;
+    public static final int select_dialog_item_material=0x7f0a0034;
+    public static final int select_dialog_multichoice_material=0x7f0a0035;
+    public static final int select_dialog_singlechoice_material=0x7f0a0036;
+    public static final int spinner_method=0x7f0a0037;
+    public static final int support_simple_spinner_dropdown_item=0x7f0a0038;
   }
   public static final class mipmap {
     public static final int changping=0x7f0b0000;
@@ -3858,35 +3861,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.agewnet.sfj:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.agewnet.sfj:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.agewnet.sfj:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.agewnet.sfj:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.agewnet.sfj:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.agewnet.sfj:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.agewnet.sfj:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.agewnet.sfj:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.agewnet.sfj:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.agewnet.sfj:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.agewnet.sfj:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.agewnet.sfj:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.agewnet.sfj:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.agewnet.sfj:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.agewnet.sfj:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.agewnet.sfj:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.agewnet.sfj:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.agewnet.sfj:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.agewnet.sfj:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.agewnet.sfj:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.agewnet.sfj:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.agewnet.sfj:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.agewnet.sfj:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.agewnet.sfj:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.agewnet.sfj:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.agewnet.sfj:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.agewnet.sfj:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.agewnet.sfj:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.agewnet.sfj:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background net.vpnsdk.cpz:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit net.vpnsdk.cpz:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked net.vpnsdk.cpz:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd net.vpnsdk.cpz:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions net.vpnsdk.cpz:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft net.vpnsdk.cpz:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight net.vpnsdk.cpz:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart net.vpnsdk.cpz:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation net.vpnsdk.cpz:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout net.vpnsdk.cpz:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions net.vpnsdk.cpz:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider net.vpnsdk.cpz:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation net.vpnsdk.cpz:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height net.vpnsdk.cpz:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll net.vpnsdk.cpz:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator net.vpnsdk.cpz:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout net.vpnsdk.cpz:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon net.vpnsdk.cpz:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle net.vpnsdk.cpz:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding net.vpnsdk.cpz:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo net.vpnsdk.cpz:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode net.vpnsdk.cpz:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme net.vpnsdk.cpz:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding net.vpnsdk.cpz:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle net.vpnsdk.cpz:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle net.vpnsdk.cpz:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle net.vpnsdk.cpz:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title net.vpnsdk.cpz:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle net.vpnsdk.cpz:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3972,7 +3975,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#background}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3980,11 +3983,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:background
+     * @attr name net.vpnsdk.cpz:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3995,11 +3998,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:backgroundSplit
+     * @attr name net.vpnsdk.cpz:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4010,11 +4013,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:backgroundStacked
+     * @attr name net.vpnsdk.cpz:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4023,11 +4026,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetEnd
+     * @attr name net.vpnsdk.cpz:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4036,11 +4039,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetEndWithActions
+     * @attr name net.vpnsdk.cpz:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4049,11 +4052,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetLeft
+     * @attr name net.vpnsdk.cpz:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4062,11 +4065,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetRight
+     * @attr name net.vpnsdk.cpz:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4075,11 +4078,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetStart
+     * @attr name net.vpnsdk.cpz:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4088,11 +4091,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetStartWithNavigation
+     * @attr name net.vpnsdk.cpz:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4100,11 +4103,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:customNavigationLayout
+     * @attr name net.vpnsdk.cpz:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4122,11 +4125,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:displayOptions
+     * @attr name net.vpnsdk.cpz:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#divider}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4134,11 +4137,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:divider
+     * @attr name net.vpnsdk.cpz:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4147,11 +4150,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:elevation
+     * @attr name net.vpnsdk.cpz:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#height}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4160,21 +4163,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:height
+     * @attr name net.vpnsdk.cpz:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:hideOnContentScroll
+     * @attr name net.vpnsdk.cpz:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4182,11 +4185,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:homeAsUpIndicator
+     * @attr name net.vpnsdk.cpz:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4194,11 +4197,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:homeLayout
+     * @attr name net.vpnsdk.cpz:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#icon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4206,11 +4209,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:icon
+     * @attr name net.vpnsdk.cpz:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4218,11 +4221,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:indeterminateProgressStyle
+     * @attr name net.vpnsdk.cpz:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4231,11 +4234,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:itemPadding
+     * @attr name net.vpnsdk.cpz:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#logo}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4243,11 +4246,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:logo
+     * @attr name net.vpnsdk.cpz:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4261,11 +4264,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:navigationMode
+     * @attr name net.vpnsdk.cpz:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4273,11 +4276,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:popupTheme
+     * @attr name net.vpnsdk.cpz:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4286,11 +4289,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:progressBarPadding
+     * @attr name net.vpnsdk.cpz:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4298,21 +4301,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:progressBarStyle
+     * @attr name net.vpnsdk.cpz:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:subtitle
+     * @attr name net.vpnsdk.cpz:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4320,21 +4323,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:subtitleTextStyle
+     * @attr name net.vpnsdk.cpz:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#title}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:title
+     * @attr name net.vpnsdk.cpz:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4342,7 +4345,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:titleTextStyle
+     * @attr name net.vpnsdk.cpz:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -4381,12 +4384,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.agewnet.sfj:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.agewnet.sfj:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.agewnet.sfj:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.agewnet.sfj:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.agewnet.sfj:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.agewnet.sfj:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background net.vpnsdk.cpz:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit net.vpnsdk.cpz:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout net.vpnsdk.cpz:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height net.vpnsdk.cpz:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle net.vpnsdk.cpz:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle net.vpnsdk.cpz:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4400,7 +4403,7 @@ public final class R {
         0x7f03010f, 0x7f030133
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#background}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4408,11 +4411,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:background
+     * @attr name net.vpnsdk.cpz:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4423,11 +4426,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:backgroundSplit
+     * @attr name net.vpnsdk.cpz:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4435,11 +4438,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:closeItemLayout
+     * @attr name net.vpnsdk.cpz:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#height}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4448,11 +4451,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:height
+     * @attr name net.vpnsdk.cpz:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4460,11 +4463,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:subtitleTextStyle
+     * @attr name net.vpnsdk.cpz:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4472,7 +4475,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:titleTextStyle
+     * @attr name net.vpnsdk.cpz:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -4482,8 +4485,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.agewnet.sfj:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.agewnet.sfj:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable net.vpnsdk.cpz:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount net.vpnsdk.cpz:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -4492,7 +4495,7 @@ public final class R {
         0x7f030078, 0x7f030091
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4500,17 +4503,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:expandActivityOverflowButtonDrawable
+     * @attr name net.vpnsdk.cpz:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:initialActivityCount
+     * @attr name net.vpnsdk.cpz:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -4521,13 +4524,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.agewnet.sfj:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.agewnet.sfj:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.agewnet.sfj:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.agewnet.sfj:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.agewnet.sfj:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.agewnet.sfj:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.agewnet.sfj:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen net.vpnsdk.cpz:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout net.vpnsdk.cpz:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout net.vpnsdk.cpz:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout net.vpnsdk.cpz:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout net.vpnsdk.cpz:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle net.vpnsdk.cpz:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout net.vpnsdk.cpz:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -4555,7 +4558,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4564,11 +4567,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:buttonIconDimen
+     * @attr name net.vpnsdk.cpz:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4576,11 +4579,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonPanelSideLayout
+     * @attr name net.vpnsdk.cpz:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4588,11 +4591,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:listItemLayout
+     * @attr name net.vpnsdk.cpz:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4600,11 +4603,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:listLayout
+     * @attr name net.vpnsdk.cpz:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4612,21 +4615,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:multiChoiceItemLayout
+     * @attr name net.vpnsdk.cpz:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:showTitle
+     * @attr name net.vpnsdk.cpz:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4634,7 +4637,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:singleChoiceItemLayout
+     * @attr name net.vpnsdk.cpz:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -4834,9 +4837,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.agewnet.sfj:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.agewnet.sfj:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.agewnet.sfj:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat net.vpnsdk.cpz:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint net.vpnsdk.cpz:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode net.vpnsdk.cpz:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -4862,7 +4865,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4870,22 +4873,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:srcCompat
+     * @attr name net.vpnsdk.cpz:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:tint
+     * @attr name net.vpnsdk.cpz:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4902,7 +4905,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:tintMode
+     * @attr name net.vpnsdk.cpz:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -4913,9 +4916,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.agewnet.sfj:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.agewnet.sfj:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.agewnet.sfj:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark net.vpnsdk.cpz:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint net.vpnsdk.cpz:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode net.vpnsdk.cpz:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -4938,7 +4941,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4946,22 +4949,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:tickMark
+     * @attr name net.vpnsdk.cpz:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:tickMarkTint
+     * @attr name net.vpnsdk.cpz:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4978,7 +4981,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:tickMarkTintMode
+     * @attr name net.vpnsdk.cpz:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5118,16 +5121,16 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.agewnet.sfj:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.agewnet.sfj:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.agewnet.sfj:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.agewnet.sfj:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.agewnet.sfj:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.agewnet.sfj:firstBaselineToTopHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.agewnet.sfj:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.agewnet.sfj:lastBaselineToBottomHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.agewnet.sfj:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.agewnet.sfj:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize net.vpnsdk.cpz:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize net.vpnsdk.cpz:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes net.vpnsdk.cpz:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity net.vpnsdk.cpz:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType net.vpnsdk.cpz:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight net.vpnsdk.cpz:firstBaselineToTopHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily net.vpnsdk.cpz:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight net.vpnsdk.cpz:lastBaselineToBottomHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight net.vpnsdk.cpz:lineHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps net.vpnsdk.cpz:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5159,7 +5162,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5168,11 +5171,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:autoSizeMaxTextSize
+     * @attr name net.vpnsdk.cpz:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5181,11 +5184,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:autoSizeMinTextSize
+     * @attr name net.vpnsdk.cpz:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5193,11 +5196,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:autoSizePresetSizes
+     * @attr name net.vpnsdk.cpz:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5206,11 +5209,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:autoSizeStepGranularity
+     * @attr name net.vpnsdk.cpz:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5223,11 +5226,11 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:autoSizeTextType
+     * @attr name net.vpnsdk.cpz:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#firstBaselineToTopHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#firstBaselineToTopHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5236,21 +5239,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:firstBaselineToTopHeight
+     * @attr name net.vpnsdk.cpz:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:fontFamily
+     * @attr name net.vpnsdk.cpz:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#lastBaselineToBottomHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#lastBaselineToBottomHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5259,11 +5262,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:lastBaselineToBottomHeight
+     * @attr name net.vpnsdk.cpz:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#lineHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#lineHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5272,11 +5275,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:lineHeight
+     * @attr name net.vpnsdk.cpz:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5286,7 +5289,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:textAllCaps
+     * @attr name net.vpnsdk.cpz:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -5298,125 +5301,125 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.agewnet.sfj:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.agewnet.sfj:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.agewnet.sfj:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.agewnet.sfj:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.agewnet.sfj:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.agewnet.sfj:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.agewnet.sfj:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.agewnet.sfj:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.agewnet.sfj:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.agewnet.sfj:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.agewnet.sfj:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.agewnet.sfj:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.agewnet.sfj:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.agewnet.sfj:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.agewnet.sfj:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.agewnet.sfj:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.agewnet.sfj:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.agewnet.sfj:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.agewnet.sfj:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.agewnet.sfj:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.agewnet.sfj:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.agewnet.sfj:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.agewnet.sfj:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.agewnet.sfj:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.agewnet.sfj:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.agewnet.sfj:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.agewnet.sfj:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.agewnet.sfj:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.agewnet.sfj:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.agewnet.sfj:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.agewnet.sfj:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.agewnet.sfj:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.agewnet.sfj:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.agewnet.sfj:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.agewnet.sfj:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.agewnet.sfj:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.agewnet.sfj:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.agewnet.sfj:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.agewnet.sfj:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.agewnet.sfj:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.agewnet.sfj:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.agewnet.sfj:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.agewnet.sfj:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.agewnet.sfj:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.agewnet.sfj:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.agewnet.sfj:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.agewnet.sfj:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.agewnet.sfj:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.agewnet.sfj:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.agewnet.sfj:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.agewnet.sfj:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.agewnet.sfj:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.agewnet.sfj:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.agewnet.sfj:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.agewnet.sfj:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.agewnet.sfj:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.agewnet.sfj:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.agewnet.sfj:dialogCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.agewnet.sfj:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.agewnet.sfj:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.agewnet.sfj:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.agewnet.sfj:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.agewnet.sfj:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.agewnet.sfj:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.agewnet.sfj:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.agewnet.sfj:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.agewnet.sfj:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.agewnet.sfj:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.agewnet.sfj:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.agewnet.sfj:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.agewnet.sfj:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.agewnet.sfj:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.agewnet.sfj:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.agewnet.sfj:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.agewnet.sfj:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.agewnet.sfj:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.agewnet.sfj:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.agewnet.sfj:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.agewnet.sfj:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.agewnet.sfj:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.agewnet.sfj:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.agewnet.sfj:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.agewnet.sfj:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.agewnet.sfj:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.agewnet.sfj:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.agewnet.sfj:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.agewnet.sfj:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.agewnet.sfj:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.agewnet.sfj:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.agewnet.sfj:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.agewnet.sfj:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.agewnet.sfj:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.agewnet.sfj:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.agewnet.sfj:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.agewnet.sfj:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.agewnet.sfj:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.agewnet.sfj:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.agewnet.sfj:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.agewnet.sfj:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.agewnet.sfj:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.agewnet.sfj:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.agewnet.sfj:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.agewnet.sfj:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.agewnet.sfj:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.agewnet.sfj:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.agewnet.sfj:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.agewnet.sfj:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.agewnet.sfj:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.agewnet.sfj:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.agewnet.sfj:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.agewnet.sfj:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.agewnet.sfj:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.agewnet.sfj:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.agewnet.sfj:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.agewnet.sfj:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.agewnet.sfj:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.agewnet.sfj:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.agewnet.sfj:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.agewnet.sfj:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider net.vpnsdk.cpz:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground net.vpnsdk.cpz:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme net.vpnsdk.cpz:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize net.vpnsdk.cpz:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle net.vpnsdk.cpz:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle net.vpnsdk.cpz:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle net.vpnsdk.cpz:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle net.vpnsdk.cpz:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle net.vpnsdk.cpz:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme net.vpnsdk.cpz:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme net.vpnsdk.cpz:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle net.vpnsdk.cpz:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle net.vpnsdk.cpz:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance net.vpnsdk.cpz:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor net.vpnsdk.cpz:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground net.vpnsdk.cpz:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle net.vpnsdk.cpz:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable net.vpnsdk.cpz:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable net.vpnsdk.cpz:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable net.vpnsdk.cpz:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable net.vpnsdk.cpz:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable net.vpnsdk.cpz:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle net.vpnsdk.cpz:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable net.vpnsdk.cpz:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable net.vpnsdk.cpz:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground net.vpnsdk.cpz:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle net.vpnsdk.cpz:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable net.vpnsdk.cpz:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle net.vpnsdk.cpz:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle net.vpnsdk.cpz:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle net.vpnsdk.cpz:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle net.vpnsdk.cpz:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons net.vpnsdk.cpz:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle net.vpnsdk.cpz:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme net.vpnsdk.cpz:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle net.vpnsdk.cpz:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle net.vpnsdk.cpz:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle net.vpnsdk.cpz:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle net.vpnsdk.cpz:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle net.vpnsdk.cpz:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle net.vpnsdk.cpz:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle net.vpnsdk.cpz:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle net.vpnsdk.cpz:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall net.vpnsdk.cpz:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle net.vpnsdk.cpz:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle net.vpnsdk.cpz:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent net.vpnsdk.cpz:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating net.vpnsdk.cpz:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal net.vpnsdk.cpz:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated net.vpnsdk.cpz:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight net.vpnsdk.cpz:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal net.vpnsdk.cpz:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError net.vpnsdk.cpz:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary net.vpnsdk.cpz:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark net.vpnsdk.cpz:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal net.vpnsdk.cpz:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground net.vpnsdk.cpz:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius net.vpnsdk.cpz:dialogCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding net.vpnsdk.cpz:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme net.vpnsdk.cpz:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal net.vpnsdk.cpz:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical net.vpnsdk.cpz:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle net.vpnsdk.cpz:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight net.vpnsdk.cpz:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground net.vpnsdk.cpz:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor net.vpnsdk.cpz:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle net.vpnsdk.cpz:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator net.vpnsdk.cpz:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle net.vpnsdk.cpz:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator net.vpnsdk.cpz:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog net.vpnsdk.cpz:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle net.vpnsdk.cpz:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle net.vpnsdk.cpz:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight net.vpnsdk.cpz:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge net.vpnsdk.cpz:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall net.vpnsdk.cpz:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft net.vpnsdk.cpz:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight net.vpnsdk.cpz:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground net.vpnsdk.cpz:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme net.vpnsdk.cpz:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth net.vpnsdk.cpz:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle net.vpnsdk.cpz:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle net.vpnsdk.cpz:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle net.vpnsdk.cpz:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle net.vpnsdk.cpz:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator net.vpnsdk.cpz:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall net.vpnsdk.cpz:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle net.vpnsdk.cpz:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle net.vpnsdk.cpz:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground net.vpnsdk.cpz:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless net.vpnsdk.cpz:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle net.vpnsdk.cpz:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle net.vpnsdk.cpz:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle net.vpnsdk.cpz:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu net.vpnsdk.cpz:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem net.vpnsdk.cpz:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary net.vpnsdk.cpz:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall net.vpnsdk.cpz:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader net.vpnsdk.cpz:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle net.vpnsdk.cpz:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle net.vpnsdk.cpz:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu net.vpnsdk.cpz:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem net.vpnsdk.cpz:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl net.vpnsdk.cpz:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle net.vpnsdk.cpz:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle net.vpnsdk.cpz:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor net.vpnsdk.cpz:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground net.vpnsdk.cpz:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass net.vpnsdk.cpz:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar net.vpnsdk.cpz:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay net.vpnsdk.cpz:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay net.vpnsdk.cpz:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor net.vpnsdk.cpz:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor net.vpnsdk.cpz:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor net.vpnsdk.cpz:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor net.vpnsdk.cpz:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor net.vpnsdk.cpz:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor net.vpnsdk.cpz:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle net.vpnsdk.cpz:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -5574,7 +5577,7 @@ public final class R {
         0x7f030148
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5582,11 +5585,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarDivider
+     * @attr name net.vpnsdk.cpz:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5594,11 +5597,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarItemBackground
+     * @attr name net.vpnsdk.cpz:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5606,11 +5609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarPopupTheme
+     * @attr name net.vpnsdk.cpz:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5627,11 +5630,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:actionBarSize
+     * @attr name net.vpnsdk.cpz:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5639,11 +5642,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarSplitStyle
+     * @attr name net.vpnsdk.cpz:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5651,11 +5654,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarStyle
+     * @attr name net.vpnsdk.cpz:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5663,11 +5666,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarTabBarStyle
+     * @attr name net.vpnsdk.cpz:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5675,11 +5678,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarTabStyle
+     * @attr name net.vpnsdk.cpz:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5687,11 +5690,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarTabTextStyle
+     * @attr name net.vpnsdk.cpz:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5699,11 +5702,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarTheme
+     * @attr name net.vpnsdk.cpz:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5711,11 +5714,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionBarWidgetTheme
+     * @attr name net.vpnsdk.cpz:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5723,11 +5726,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionButtonStyle
+     * @attr name net.vpnsdk.cpz:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5735,11 +5738,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionDropDownStyle
+     * @attr name net.vpnsdk.cpz:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5747,11 +5750,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionMenuTextAppearance
+     * @attr name net.vpnsdk.cpz:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5762,11 +5765,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionMenuTextColor
+     * @attr name net.vpnsdk.cpz:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5774,11 +5777,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeBackground
+     * @attr name net.vpnsdk.cpz:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5786,11 +5789,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeCloseButtonStyle
+     * @attr name net.vpnsdk.cpz:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5798,11 +5801,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeCloseDrawable
+     * @attr name net.vpnsdk.cpz:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5810,11 +5813,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeCopyDrawable
+     * @attr name net.vpnsdk.cpz:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5822,11 +5825,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeCutDrawable
+     * @attr name net.vpnsdk.cpz:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5834,11 +5837,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeFindDrawable
+     * @attr name net.vpnsdk.cpz:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5846,11 +5849,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModePasteDrawable
+     * @attr name net.vpnsdk.cpz:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5858,11 +5861,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModePopupWindowStyle
+     * @attr name net.vpnsdk.cpz:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5870,11 +5873,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeSelectAllDrawable
+     * @attr name net.vpnsdk.cpz:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5882,11 +5885,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeShareDrawable
+     * @attr name net.vpnsdk.cpz:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5894,11 +5897,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeSplitBackground
+     * @attr name net.vpnsdk.cpz:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5906,11 +5909,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeStyle
+     * @attr name net.vpnsdk.cpz:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5918,11 +5921,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionModeWebSearchDrawable
+     * @attr name net.vpnsdk.cpz:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5930,11 +5933,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionOverflowButtonStyle
+     * @attr name net.vpnsdk.cpz:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5942,11 +5945,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionOverflowMenuStyle
+     * @attr name net.vpnsdk.cpz:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5954,11 +5957,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:activityChooserViewStyle
+     * @attr name net.vpnsdk.cpz:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5966,21 +5969,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:alertDialogButtonGroupStyle
+     * @attr name net.vpnsdk.cpz:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:alertDialogCenterButtons
+     * @attr name net.vpnsdk.cpz:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5988,11 +5991,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:alertDialogStyle
+     * @attr name net.vpnsdk.cpz:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6000,7 +6003,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:alertDialogTheme
+     * @attr name net.vpnsdk.cpz:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -6026,7 +6029,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6034,11 +6037,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:autoCompleteTextViewStyle
+     * @attr name net.vpnsdk.cpz:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6046,11 +6049,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:borderlessButtonStyle
+     * @attr name net.vpnsdk.cpz:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6058,11 +6061,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonBarButtonStyle
+     * @attr name net.vpnsdk.cpz:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6070,11 +6073,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonBarNegativeButtonStyle
+     * @attr name net.vpnsdk.cpz:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6082,11 +6085,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonBarNeutralButtonStyle
+     * @attr name net.vpnsdk.cpz:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6094,11 +6097,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonBarPositiveButtonStyle
+     * @attr name net.vpnsdk.cpz:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6106,11 +6109,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonBarStyle
+     * @attr name net.vpnsdk.cpz:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6118,11 +6121,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonStyle
+     * @attr name net.vpnsdk.cpz:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6130,11 +6133,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonStyleSmall
+     * @attr name net.vpnsdk.cpz:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6142,11 +6145,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:checkboxStyle
+     * @attr name net.vpnsdk.cpz:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6154,77 +6157,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:checkedTextViewStyle
+     * @attr name net.vpnsdk.cpz:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorAccent
+     * @attr name net.vpnsdk.cpz:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorBackgroundFloating
+     * @attr name net.vpnsdk.cpz:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorButtonNormal
+     * @attr name net.vpnsdk.cpz:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorControlActivated
+     * @attr name net.vpnsdk.cpz:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorControlHighlight
+     * @attr name net.vpnsdk.cpz:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorControlNormal
+     * @attr name net.vpnsdk.cpz:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6235,44 +6238,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorError
+     * @attr name net.vpnsdk.cpz:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorPrimary
+     * @attr name net.vpnsdk.cpz:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorPrimaryDark
+     * @attr name net.vpnsdk.cpz:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:colorSwitchThumbNormal
+     * @attr name net.vpnsdk.cpz:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6280,11 +6283,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:controlBackground
+     * @attr name net.vpnsdk.cpz:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dialogCornerRadius}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dialogCornerRadius}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6293,11 +6296,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:dialogCornerRadius
+     * @attr name net.vpnsdk.cpz:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6306,11 +6309,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:dialogPreferredPadding
+     * @attr name net.vpnsdk.cpz:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6318,11 +6321,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:dialogTheme
+     * @attr name net.vpnsdk.cpz:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6330,11 +6333,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:dividerHorizontal
+     * @attr name net.vpnsdk.cpz:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6342,11 +6345,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:dividerVertical
+     * @attr name net.vpnsdk.cpz:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6354,11 +6357,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:dropDownListViewStyle
+     * @attr name net.vpnsdk.cpz:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6367,11 +6370,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:dropdownListPreferredItemHeight
+     * @attr name net.vpnsdk.cpz:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6379,11 +6382,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:editTextBackground
+     * @attr name net.vpnsdk.cpz:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6394,11 +6397,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:editTextColor
+     * @attr name net.vpnsdk.cpz:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6406,11 +6409,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:editTextStyle
+     * @attr name net.vpnsdk.cpz:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6418,11 +6421,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:homeAsUpIndicator
+     * @attr name net.vpnsdk.cpz:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6430,11 +6433,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:imageButtonStyle
+     * @attr name net.vpnsdk.cpz:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6442,11 +6445,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:listChoiceBackgroundIndicator
+     * @attr name net.vpnsdk.cpz:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6454,11 +6457,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:listDividerAlertDialog
+     * @attr name net.vpnsdk.cpz:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6466,11 +6469,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:listMenuViewStyle
+     * @attr name net.vpnsdk.cpz:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6478,11 +6481,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:listPopupWindowStyle
+     * @attr name net.vpnsdk.cpz:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6491,11 +6494,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:listPreferredItemHeight
+     * @attr name net.vpnsdk.cpz:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6504,11 +6507,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:listPreferredItemHeightLarge
+     * @attr name net.vpnsdk.cpz:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6517,11 +6520,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:listPreferredItemHeightSmall
+     * @attr name net.vpnsdk.cpz:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6530,11 +6533,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:listPreferredItemPaddingLeft
+     * @attr name net.vpnsdk.cpz:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6543,11 +6546,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:listPreferredItemPaddingRight
+     * @attr name net.vpnsdk.cpz:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6555,11 +6558,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:panelBackground
+     * @attr name net.vpnsdk.cpz:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6567,11 +6570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:panelMenuListTheme
+     * @attr name net.vpnsdk.cpz:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6580,11 +6583,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:panelMenuListWidth
+     * @attr name net.vpnsdk.cpz:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6592,11 +6595,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:popupMenuStyle
+     * @attr name net.vpnsdk.cpz:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6604,11 +6607,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:popupWindowStyle
+     * @attr name net.vpnsdk.cpz:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6616,11 +6619,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:radioButtonStyle
+     * @attr name net.vpnsdk.cpz:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6628,11 +6631,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:ratingBarStyle
+     * @attr name net.vpnsdk.cpz:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6640,11 +6643,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:ratingBarStyleIndicator
+     * @attr name net.vpnsdk.cpz:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6652,11 +6655,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:ratingBarStyleSmall
+     * @attr name net.vpnsdk.cpz:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6664,11 +6667,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:searchViewStyle
+     * @attr name net.vpnsdk.cpz:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6676,11 +6679,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:seekBarStyle
+     * @attr name net.vpnsdk.cpz:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6688,11 +6691,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:selectableItemBackground
+     * @attr name net.vpnsdk.cpz:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6700,11 +6703,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:selectableItemBackgroundBorderless
+     * @attr name net.vpnsdk.cpz:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6712,11 +6715,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:spinnerDropDownItemStyle
+     * @attr name net.vpnsdk.cpz:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6724,11 +6727,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:spinnerStyle
+     * @attr name net.vpnsdk.cpz:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6736,11 +6739,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:switchStyle
+     * @attr name net.vpnsdk.cpz:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6748,11 +6751,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearanceLargePopupMenu
+     * @attr name net.vpnsdk.cpz:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6760,11 +6763,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearanceListItem
+     * @attr name net.vpnsdk.cpz:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6772,11 +6775,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearanceListItemSecondary
+     * @attr name net.vpnsdk.cpz:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6784,11 +6787,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearanceListItemSmall
+     * @attr name net.vpnsdk.cpz:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6796,11 +6799,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearancePopupMenuHeader
+     * @attr name net.vpnsdk.cpz:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6808,11 +6811,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearanceSearchResultSubtitle
+     * @attr name net.vpnsdk.cpz:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6820,11 +6823,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearanceSearchResultTitle
+     * @attr name net.vpnsdk.cpz:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6832,11 +6835,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:textAppearanceSmallPopupMenu
+     * @attr name net.vpnsdk.cpz:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6847,11 +6850,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:textColorAlertDialogListItem
+     * @attr name net.vpnsdk.cpz:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6862,11 +6865,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:textColorSearchUrl
+     * @attr name net.vpnsdk.cpz:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6874,11 +6877,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:toolbarNavigationButtonStyle
+     * @attr name net.vpnsdk.cpz:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6886,11 +6889,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:toolbarStyle
+     * @attr name net.vpnsdk.cpz:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6901,11 +6904,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:tooltipForegroundColor
+     * @attr name net.vpnsdk.cpz:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6913,51 +6916,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:tooltipFrameBackground
+     * @attr name net.vpnsdk.cpz:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:viewInflaterClass
+     * @attr name net.vpnsdk.cpz:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:windowActionBar
+     * @attr name net.vpnsdk.cpz:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:windowActionBarOverlay
+     * @attr name net.vpnsdk.cpz:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:windowActionModeOverlay
+     * @attr name net.vpnsdk.cpz:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6970,11 +6973,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.agewnet.sfj:windowFixedHeightMajor
+     * @attr name net.vpnsdk.cpz:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6987,11 +6990,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.agewnet.sfj:windowFixedHeightMinor
+     * @attr name net.vpnsdk.cpz:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7004,11 +7007,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.agewnet.sfj:windowFixedWidthMajor
+     * @attr name net.vpnsdk.cpz:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7021,11 +7024,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.agewnet.sfj:windowFixedWidthMinor
+     * @attr name net.vpnsdk.cpz:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7038,11 +7041,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.agewnet.sfj:windowMinWidthMajor
+     * @attr name net.vpnsdk.cpz:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7055,17 +7058,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.agewnet.sfj:windowMinWidthMinor
+     * @attr name net.vpnsdk.cpz:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:windowNoTitle
+     * @attr name net.vpnsdk.cpz:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -7075,7 +7078,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.agewnet.sfj:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking net.vpnsdk.cpz:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7083,13 +7086,13 @@ public final class R {
         0x7f030026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:allowStacking
+     * @attr name net.vpnsdk.cpz:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7101,7 +7104,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.agewnet.sfj:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha net.vpnsdk.cpz:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -7111,12 +7114,12 @@ public final class R {
         0x010101a5, 0x0101031f, 0x7f030027
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:alpha
+     * @attr name net.vpnsdk.cpz:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -7147,8 +7150,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.agewnet.sfj:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.agewnet.sfj:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint net.vpnsdk.cpz:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode net.vpnsdk.cpz:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -7170,18 +7173,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:buttonTint
+     * @attr name net.vpnsdk.cpz:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7198,7 +7201,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:buttonTintMode
+     * @attr name net.vpnsdk.cpz:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -7213,61 +7216,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.agewnet.sfj:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.agewnet.sfj:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.agewnet.sfj:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.agewnet.sfj:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.agewnet.sfj:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.agewnet.sfj:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.agewnet.sfj:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.agewnet.sfj:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.agewnet.sfj:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.agewnet.sfj:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.agewnet.sfj:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.agewnet.sfj:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.agewnet.sfj:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.agewnet.sfj:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.agewnet.sfj:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.agewnet.sfj:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.agewnet.sfj:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.agewnet.sfj:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.agewnet.sfj:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.agewnet.sfj:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.agewnet.sfj:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.agewnet.sfj:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.agewnet.sfj:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.agewnet.sfj:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.agewnet.sfj:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.agewnet.sfj:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.agewnet.sfj:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.agewnet.sfj:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.agewnet.sfj:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.agewnet.sfj:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.agewnet.sfj:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.agewnet.sfj:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.agewnet.sfj:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.agewnet.sfj:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.agewnet.sfj:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.agewnet.sfj:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.agewnet.sfj:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.agewnet.sfj:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.agewnet.sfj:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.agewnet.sfj:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.agewnet.sfj:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.agewnet.sfj:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.agewnet.sfj:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.agewnet.sfj:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.agewnet.sfj:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.agewnet.sfj:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.agewnet.sfj:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.agewnet.sfj:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.agewnet.sfj:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.agewnet.sfj:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.agewnet.sfj:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.agewnet.sfj:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.agewnet.sfj:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.agewnet.sfj:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.agewnet.sfj:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets net.vpnsdk.cpz:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection net.vpnsdk.cpz:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl net.vpnsdk.cpz:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet net.vpnsdk.cpz:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids net.vpnsdk.cpz:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight net.vpnsdk.cpz:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth net.vpnsdk.cpz:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator net.vpnsdk.cpz:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf net.vpnsdk.cpz:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator net.vpnsdk.cpz:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf net.vpnsdk.cpz:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf net.vpnsdk.cpz:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle net.vpnsdk.cpz:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle net.vpnsdk.cpz:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius net.vpnsdk.cpz:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio net.vpnsdk.cpz:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf net.vpnsdk.cpz:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf net.vpnsdk.cpz:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin net.vpnsdk.cpz:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end net.vpnsdk.cpz:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent net.vpnsdk.cpz:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default net.vpnsdk.cpz:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max net.vpnsdk.cpz:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min net.vpnsdk.cpz:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent net.vpnsdk.cpz:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias net.vpnsdk.cpz:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle net.vpnsdk.cpz:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight net.vpnsdk.cpz:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator net.vpnsdk.cpz:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf net.vpnsdk.cpz:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf net.vpnsdk.cpz:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator net.vpnsdk.cpz:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf net.vpnsdk.cpz:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf net.vpnsdk.cpz:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf net.vpnsdk.cpz:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf net.vpnsdk.cpz:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator net.vpnsdk.cpz:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf net.vpnsdk.cpz:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf net.vpnsdk.cpz:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias net.vpnsdk.cpz:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle net.vpnsdk.cpz:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight net.vpnsdk.cpz:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default net.vpnsdk.cpz:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max net.vpnsdk.cpz:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min net.vpnsdk.cpz:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent net.vpnsdk.cpz:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX net.vpnsdk.cpz:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY net.vpnsdk.cpz:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom net.vpnsdk.cpz:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd net.vpnsdk.cpz:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft net.vpnsdk.cpz:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight net.vpnsdk.cpz:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart net.vpnsdk.cpz:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop net.vpnsdk.cpz:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel net.vpnsdk.cpz:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -7417,17 +7420,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:barrierAllowsGoneWidgets
+     * @attr name net.vpnsdk.cpz:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7444,21 +7447,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:barrierDirection
+     * @attr name net.vpnsdk.cpz:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:chainUseRtl
+     * @attr name net.vpnsdk.cpz:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7466,50 +7469,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:constraintSet
+     * @attr name net.vpnsdk.cpz:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:constraint_referenced_ids
+     * @attr name net.vpnsdk.cpz:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constrainedHeight
+     * @attr name net.vpnsdk.cpz:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constrainedWidth
+     * @attr name net.vpnsdk.cpz:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintBaseline_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7525,20 +7528,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintBaseline_toBaselineOf
+     * @attr name net.vpnsdk.cpz:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintBottom_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7554,11 +7557,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintBottom_toBottomOf
+     * @attr name net.vpnsdk.cpz:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7574,11 +7577,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintBottom_toTopOf
+     * @attr name net.vpnsdk.cpz:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7586,20 +7589,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintCircle
+     * @attr name net.vpnsdk.cpz:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintCircleAngle
+     * @attr name net.vpnsdk.cpz:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7608,21 +7611,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_constraintCircleRadius
+     * @attr name net.vpnsdk.cpz:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:layout_constraintDimensionRatio
+     * @attr name net.vpnsdk.cpz:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7638,11 +7641,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintEnd_toEndOf
+     * @attr name net.vpnsdk.cpz:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7658,11 +7661,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintEnd_toStartOf
+     * @attr name net.vpnsdk.cpz:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7671,11 +7674,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_constraintGuide_begin
+     * @attr name net.vpnsdk.cpz:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7684,20 +7687,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_constraintGuide_end
+     * @attr name net.vpnsdk.cpz:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintGuide_percent
+     * @attr name net.vpnsdk.cpz:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7711,11 +7714,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_default
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7732,11 +7735,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_max
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7753,29 +7756,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_min
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_percent
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintHorizontal_bias
+     * @attr name net.vpnsdk.cpz:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7789,29 +7792,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHorizontal_chainStyle
+     * @attr name net.vpnsdk.cpz:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintHorizontal_weight
+     * @attr name net.vpnsdk.cpz:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintLeft_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7827,11 +7830,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintLeft_toLeftOf
+     * @attr name net.vpnsdk.cpz:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7847,20 +7850,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintLeft_toRightOf
+     * @attr name net.vpnsdk.cpz:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintRight_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7876,11 +7879,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintRight_toLeftOf
+     * @attr name net.vpnsdk.cpz:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7896,11 +7899,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintRight_toRightOf
+     * @attr name net.vpnsdk.cpz:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7916,11 +7919,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintStart_toEndOf
+     * @attr name net.vpnsdk.cpz:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7936,20 +7939,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintStart_toStartOf
+     * @attr name net.vpnsdk.cpz:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintTop_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7965,11 +7968,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintTop_toBottomOf
+     * @attr name net.vpnsdk.cpz:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7985,20 +7988,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintTop_toTopOf
+     * @attr name net.vpnsdk.cpz:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintVertical_bias
+     * @attr name net.vpnsdk.cpz:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8012,20 +8015,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintVertical_chainStyle
+     * @attr name net.vpnsdk.cpz:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintVertical_weight
+     * @attr name net.vpnsdk.cpz:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8039,11 +8042,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_default
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8060,11 +8063,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_max
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8081,20 +8084,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_min
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_percent
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8103,11 +8106,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_editor_absoluteX
+     * @attr name net.vpnsdk.cpz:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8116,11 +8119,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_editor_absoluteY
+     * @attr name net.vpnsdk.cpz:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8129,11 +8132,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginBottom
+     * @attr name net.vpnsdk.cpz:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8142,11 +8145,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginEnd
+     * @attr name net.vpnsdk.cpz:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8155,11 +8158,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginLeft
+     * @attr name net.vpnsdk.cpz:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8168,11 +8171,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginRight
+     * @attr name net.vpnsdk.cpz:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8181,11 +8184,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginStart
+     * @attr name net.vpnsdk.cpz:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8194,11 +8197,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginTop
+     * @attr name net.vpnsdk.cpz:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8216,7 +8219,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_optimizationLevel
+     * @attr name net.vpnsdk.cpz:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -8226,8 +8229,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.agewnet.sfj:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.agewnet.sfj:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content net.vpnsdk.cpz:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility net.vpnsdk.cpz:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -8236,7 +8239,7 @@ public final class R {
         0x7f03005b, 0x7f030077
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#content}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8244,11 +8247,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:content
+     * @attr name net.vpnsdk.cpz:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8261,7 +8264,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:emptyVisibility
+     * @attr name net.vpnsdk.cpz:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -8298,59 +8301,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.agewnet.sfj:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.agewnet.sfj:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.agewnet.sfj:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.agewnet.sfj:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.agewnet.sfj:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.agewnet.sfj:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.agewnet.sfj:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.agewnet.sfj:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.agewnet.sfj:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.agewnet.sfj:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.agewnet.sfj:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.agewnet.sfj:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.agewnet.sfj:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.agewnet.sfj:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.agewnet.sfj:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.agewnet.sfj:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.agewnet.sfj:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.agewnet.sfj:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.agewnet.sfj:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.agewnet.sfj:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.agewnet.sfj:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.agewnet.sfj:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.agewnet.sfj:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.agewnet.sfj:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.agewnet.sfj:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.agewnet.sfj:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.agewnet.sfj:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.agewnet.sfj:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.agewnet.sfj:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.agewnet.sfj:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.agewnet.sfj:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.agewnet.sfj:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.agewnet.sfj:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.agewnet.sfj:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.agewnet.sfj:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.agewnet.sfj:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.agewnet.sfj:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.agewnet.sfj:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.agewnet.sfj:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.agewnet.sfj:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.agewnet.sfj:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.agewnet.sfj:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.agewnet.sfj:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.agewnet.sfj:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.agewnet.sfj:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.agewnet.sfj:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.agewnet.sfj:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.agewnet.sfj:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.agewnet.sfj:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.agewnet.sfj:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.agewnet.sfj:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.agewnet.sfj:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.agewnet.sfj:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets net.vpnsdk.cpz:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection net.vpnsdk.cpz:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl net.vpnsdk.cpz:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids net.vpnsdk.cpz:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight net.vpnsdk.cpz:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth net.vpnsdk.cpz:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator net.vpnsdk.cpz:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf net.vpnsdk.cpz:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator net.vpnsdk.cpz:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf net.vpnsdk.cpz:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf net.vpnsdk.cpz:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle net.vpnsdk.cpz:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle net.vpnsdk.cpz:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius net.vpnsdk.cpz:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio net.vpnsdk.cpz:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf net.vpnsdk.cpz:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf net.vpnsdk.cpz:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin net.vpnsdk.cpz:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end net.vpnsdk.cpz:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent net.vpnsdk.cpz:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default net.vpnsdk.cpz:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max net.vpnsdk.cpz:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min net.vpnsdk.cpz:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent net.vpnsdk.cpz:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias net.vpnsdk.cpz:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle net.vpnsdk.cpz:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight net.vpnsdk.cpz:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator net.vpnsdk.cpz:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf net.vpnsdk.cpz:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf net.vpnsdk.cpz:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator net.vpnsdk.cpz:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf net.vpnsdk.cpz:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf net.vpnsdk.cpz:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf net.vpnsdk.cpz:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf net.vpnsdk.cpz:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator net.vpnsdk.cpz:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf net.vpnsdk.cpz:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf net.vpnsdk.cpz:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias net.vpnsdk.cpz:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle net.vpnsdk.cpz:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight net.vpnsdk.cpz:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default net.vpnsdk.cpz:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max net.vpnsdk.cpz:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min net.vpnsdk.cpz:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent net.vpnsdk.cpz:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX net.vpnsdk.cpz:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY net.vpnsdk.cpz:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom net.vpnsdk.cpz:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd net.vpnsdk.cpz:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft net.vpnsdk.cpz:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight net.vpnsdk.cpz:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart net.vpnsdk.cpz:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop net.vpnsdk.cpz:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -8811,17 +8814,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:barrierAllowsGoneWidgets
+     * @attr name net.vpnsdk.cpz:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8838,60 +8841,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:barrierDirection
+     * @attr name net.vpnsdk.cpz:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:chainUseRtl
+     * @attr name net.vpnsdk.cpz:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:constraint_referenced_ids
+     * @attr name net.vpnsdk.cpz:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constrainedHeight
+     * @attr name net.vpnsdk.cpz:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constrainedWidth
+     * @attr name net.vpnsdk.cpz:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintBaseline_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8907,20 +8910,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintBaseline_toBaselineOf
+     * @attr name net.vpnsdk.cpz:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintBottom_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8936,11 +8939,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintBottom_toBottomOf
+     * @attr name net.vpnsdk.cpz:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8956,11 +8959,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintBottom_toTopOf
+     * @attr name net.vpnsdk.cpz:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8968,20 +8971,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintCircle
+     * @attr name net.vpnsdk.cpz:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintCircleAngle
+     * @attr name net.vpnsdk.cpz:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8990,21 +8993,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_constraintCircleRadius
+     * @attr name net.vpnsdk.cpz:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:layout_constraintDimensionRatio
+     * @attr name net.vpnsdk.cpz:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9020,11 +9023,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintEnd_toEndOf
+     * @attr name net.vpnsdk.cpz:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9040,11 +9043,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintEnd_toStartOf
+     * @attr name net.vpnsdk.cpz:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9053,11 +9056,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_constraintGuide_begin
+     * @attr name net.vpnsdk.cpz:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9066,20 +9069,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_constraintGuide_end
+     * @attr name net.vpnsdk.cpz:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintGuide_percent
+     * @attr name net.vpnsdk.cpz:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9093,11 +9096,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_default
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9114,11 +9117,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_max
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9135,29 +9138,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_min
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintHeight_percent
+     * @attr name net.vpnsdk.cpz:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintHorizontal_bias
+     * @attr name net.vpnsdk.cpz:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9171,29 +9174,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintHorizontal_chainStyle
+     * @attr name net.vpnsdk.cpz:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintHorizontal_weight
+     * @attr name net.vpnsdk.cpz:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintLeft_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9209,11 +9212,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintLeft_toLeftOf
+     * @attr name net.vpnsdk.cpz:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9229,20 +9232,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintLeft_toRightOf
+     * @attr name net.vpnsdk.cpz:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintRight_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9258,11 +9261,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintRight_toLeftOf
+     * @attr name net.vpnsdk.cpz:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9278,11 +9281,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintRight_toRightOf
+     * @attr name net.vpnsdk.cpz:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9298,11 +9301,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintStart_toEndOf
+     * @attr name net.vpnsdk.cpz:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9318,20 +9321,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintStart_toStartOf
+     * @attr name net.vpnsdk.cpz:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintTop_creator
+     * @attr name net.vpnsdk.cpz:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9347,11 +9350,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintTop_toBottomOf
+     * @attr name net.vpnsdk.cpz:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9367,20 +9370,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintTop_toTopOf
+     * @attr name net.vpnsdk.cpz:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintVertical_bias
+     * @attr name net.vpnsdk.cpz:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9394,20 +9397,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintVertical_chainStyle
+     * @attr name net.vpnsdk.cpz:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintVertical_weight
+     * @attr name net.vpnsdk.cpz:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9421,11 +9424,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_default
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9442,11 +9445,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_max
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9463,20 +9466,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_min
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.agewnet.sfj:layout_constraintWidth_percent
+     * @attr name net.vpnsdk.cpz:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9485,11 +9488,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_editor_absoluteX
+     * @attr name net.vpnsdk.cpz:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9498,11 +9501,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_editor_absoluteY
+     * @attr name net.vpnsdk.cpz:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9511,11 +9514,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginBottom
+     * @attr name net.vpnsdk.cpz:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9524,11 +9527,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginEnd
+     * @attr name net.vpnsdk.cpz:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9537,11 +9540,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginLeft
+     * @attr name net.vpnsdk.cpz:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9550,11 +9553,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginRight
+     * @attr name net.vpnsdk.cpz:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9563,11 +9566,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginStart
+     * @attr name net.vpnsdk.cpz:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9576,7 +9579,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:layout_goneMarginTop
+     * @attr name net.vpnsdk.cpz:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -9586,8 +9589,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.agewnet.sfj:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.agewnet.sfj:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines net.vpnsdk.cpz:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground net.vpnsdk.cpz:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -9603,12 +9606,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.agewnet.sfj:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.agewnet.sfj:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.agewnet.sfj:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.agewnet.sfj:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.agewnet.sfj:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.agewnet.sfj:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor net.vpnsdk.cpz:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity net.vpnsdk.cpz:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior net.vpnsdk.cpz:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges net.vpnsdk.cpz:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge net.vpnsdk.cpz:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline net.vpnsdk.cpz:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -9652,7 +9655,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9660,11 +9663,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:layout_anchor
+     * @attr name net.vpnsdk.cpz:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9689,21 +9692,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_anchorGravity
+     * @attr name net.vpnsdk.cpz:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:layout_behavior
+     * @attr name net.vpnsdk.cpz:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9722,11 +9725,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_dodgeInsetEdges
+     * @attr name net.vpnsdk.cpz:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9744,20 +9747,20 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:layout_insetEdge
+     * @attr name net.vpnsdk.cpz:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:layout_keyline
+     * @attr name net.vpnsdk.cpz:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9765,11 +9768,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:keylines
+     * @attr name net.vpnsdk.cpz:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9780,7 +9783,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:statusBarBackground
+     * @attr name net.vpnsdk.cpz:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -9790,14 +9793,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.agewnet.sfj:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.agewnet.sfj:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.agewnet.sfj:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.agewnet.sfj:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.agewnet.sfj:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.agewnet.sfj:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.agewnet.sfj:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.agewnet.sfj:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength net.vpnsdk.cpz:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength net.vpnsdk.cpz:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength net.vpnsdk.cpz:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color net.vpnsdk.cpz:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize net.vpnsdk.cpz:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars net.vpnsdk.cpz:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars net.vpnsdk.cpz:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness net.vpnsdk.cpz:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -9813,7 +9816,7 @@ public final class R {
         0x7f03006f, 0x7f030085, 0x7f030103, 0x7f030121
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9822,11 +9825,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:arrowHeadLength
+     * @attr name net.vpnsdk.cpz:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9835,11 +9838,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:arrowShaftLength
+     * @attr name net.vpnsdk.cpz:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9848,22 +9851,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:barLength
+     * @attr name net.vpnsdk.cpz:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#color}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:color
+     * @attr name net.vpnsdk.cpz:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9872,11 +9875,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:drawableSize
+     * @attr name net.vpnsdk.cpz:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9885,21 +9888,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:gapBetweenBars
+     * @attr name net.vpnsdk.cpz:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:spinBars
+     * @attr name net.vpnsdk.cpz:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9908,7 +9911,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:thickness
+     * @attr name net.vpnsdk.cpz:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -9918,12 +9921,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.agewnet.sfj:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.agewnet.sfj:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.agewnet.sfj:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.agewnet.sfj:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.agewnet.sfj:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.agewnet.sfj:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority net.vpnsdk.cpz:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts net.vpnsdk.cpz:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy net.vpnsdk.cpz:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout net.vpnsdk.cpz:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage net.vpnsdk.cpz:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery net.vpnsdk.cpz:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -9948,11 +9951,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.agewnet.sfj:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.agewnet.sfj:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.agewnet.sfj:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.agewnet.sfj:fontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.agewnet.sfj:ttcIndex}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font net.vpnsdk.cpz:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle net.vpnsdk.cpz:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings net.vpnsdk.cpz:fontVariationSettings}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight net.vpnsdk.cpz:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex net.vpnsdk.cpz:ttcIndex}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -10028,7 +10031,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_ttcIndex=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#font}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10036,11 +10039,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:font
+     * @attr name net.vpnsdk.cpz:font
      */
     public static final int FontFamilyFont_font=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10053,49 +10056,49 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:fontStyle
+     * @attr name net.vpnsdk.cpz:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontVariationSettings}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontVariationSettings}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:fontVariationSettings
+     * @attr name net.vpnsdk.cpz:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:fontWeight
+     * @attr name net.vpnsdk.cpz:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#ttcIndex}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#ttcIndex}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.agewnet.sfj:ttcIndex
+     * @attr name net.vpnsdk.cpz:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:fontProviderAuthority
+     * @attr name net.vpnsdk.cpz:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10103,11 +10106,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:fontProviderCerts
+     * @attr name net.vpnsdk.cpz:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10120,11 +10123,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:fontProviderFetchStrategy
+     * @attr name net.vpnsdk.cpz:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -10137,27 +10140,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:fontProviderFetchTimeout
+     * @attr name net.vpnsdk.cpz:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:fontProviderPackage
+     * @attr name net.vpnsdk.cpz:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:fontProviderQuery
+     * @attr name net.vpnsdk.cpz:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -10427,10 +10430,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.agewnet.sfj:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.agewnet.sfj:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.agewnet.sfj:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.agewnet.sfj:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider net.vpnsdk.cpz:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding net.vpnsdk.cpz:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild net.vpnsdk.cpz:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers net.vpnsdk.cpz:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -10626,7 +10629,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#divider}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10634,11 +10637,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:divider
+     * @attr name net.vpnsdk.cpz:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10647,21 +10650,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:dividerPadding
+     * @attr name net.vpnsdk.cpz:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:measureWithLargestChild
+     * @attr name net.vpnsdk.cpz:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10676,7 +10679,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:showDividers
+     * @attr name net.vpnsdk.cpz:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -10844,16 +10847,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.agewnet.sfj:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.agewnet.sfj:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.agewnet.sfj:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.agewnet.sfj:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.agewnet.sfj:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.agewnet.sfj:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.agewnet.sfj:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.agewnet.sfj:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.agewnet.sfj:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.agewnet.sfj:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout net.vpnsdk.cpz:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass net.vpnsdk.cpz:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass net.vpnsdk.cpz:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers net.vpnsdk.cpz:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription net.vpnsdk.cpz:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint net.vpnsdk.cpz:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode net.vpnsdk.cpz:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers net.vpnsdk.cpz:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction net.vpnsdk.cpz:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText net.vpnsdk.cpz:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -10888,7 +10891,7 @@ public final class R {
         0x7f0300e3, 0x7f0300fe, 0x7f030138
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10896,31 +10899,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:actionLayout
+     * @attr name net.vpnsdk.cpz:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:actionProviderClass
+     * @attr name net.vpnsdk.cpz:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:actionViewClass
+     * @attr name net.vpnsdk.cpz:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10937,7 +10940,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:alphabeticModifiers
+     * @attr name net.vpnsdk.cpz:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -11083,28 +11086,28 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:contentDescription
+     * @attr name net.vpnsdk.cpz:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:iconTint
+     * @attr name net.vpnsdk.cpz:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11121,11 +11124,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:iconTintMode
+     * @attr name net.vpnsdk.cpz:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11142,11 +11145,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:numericModifiers
+     * @attr name net.vpnsdk.cpz:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11162,17 +11165,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:showAsAction
+     * @attr name net.vpnsdk.cpz:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:tooltipText
+     * @attr name net.vpnsdk.cpz:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -11189,8 +11192,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.agewnet.sfj:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.agewnet.sfj:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing net.vpnsdk.cpz:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow net.vpnsdk.cpz:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -11295,17 +11298,17 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:preserveIconSpacing
+     * @attr name net.vpnsdk.cpz:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11313,7 +11316,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:subMenuArrow
+     * @attr name net.vpnsdk.cpz:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -11325,7 +11328,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.agewnet.sfj:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor net.vpnsdk.cpz:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -11341,7 +11344,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.agewnet.sfj:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor net.vpnsdk.cpz:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -11349,13 +11352,13 @@ public final class R {
         0x7f030108
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:state_above_anchor
+     * @attr name net.vpnsdk.cpz:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -11386,13 +11389,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:overlapAnchor
+     * @attr name net.vpnsdk.cpz:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -11402,8 +11405,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.agewnet.sfj:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.agewnet.sfj:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons net.vpnsdk.cpz:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle net.vpnsdk.cpz:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -11412,7 +11415,7 @@ public final class R {
         0x7f0300e5, 0x7f0300e8
       };
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11421,11 +11424,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:paddingBottomNoButtons
+     * @attr name net.vpnsdk.cpz:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11434,7 +11437,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:paddingTopNoTitle
+     * @attr name net.vpnsdk.cpz:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -11448,19 +11451,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.agewnet.sfj:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.agewnet.sfj:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.agewnet.sfj:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.agewnet.sfj:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.agewnet.sfj:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.agewnet.sfj:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.agewnet.sfj:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.agewnet.sfj:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.agewnet.sfj:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.agewnet.sfj:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.agewnet.sfj:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.agewnet.sfj:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.agewnet.sfj:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon net.vpnsdk.cpz:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon net.vpnsdk.cpz:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint net.vpnsdk.cpz:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon net.vpnsdk.cpz:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault net.vpnsdk.cpz:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout net.vpnsdk.cpz:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground net.vpnsdk.cpz:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint net.vpnsdk.cpz:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon net.vpnsdk.cpz:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon net.vpnsdk.cpz:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground net.vpnsdk.cpz:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout net.vpnsdk.cpz:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon net.vpnsdk.cpz:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -11598,7 +11601,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11606,11 +11609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:closeIcon
+     * @attr name net.vpnsdk.cpz:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11618,21 +11621,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:commitIcon
+     * @attr name net.vpnsdk.cpz:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:defaultQueryHint
+     * @attr name net.vpnsdk.cpz:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11640,21 +11643,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:goIcon
+     * @attr name net.vpnsdk.cpz:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:iconifiedByDefault
+     * @attr name net.vpnsdk.cpz:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#layout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11662,11 +11665,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:layout
+     * @attr name net.vpnsdk.cpz:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11674,21 +11677,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:queryBackground
+     * @attr name net.vpnsdk.cpz:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:queryHint
+     * @attr name net.vpnsdk.cpz:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11696,11 +11699,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:searchHintIcon
+     * @attr name net.vpnsdk.cpz:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11708,11 +11711,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:searchIcon
+     * @attr name net.vpnsdk.cpz:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11720,11 +11723,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:submitBackground
+     * @attr name net.vpnsdk.cpz:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11732,11 +11735,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:suggestionRowLayout
+     * @attr name net.vpnsdk.cpz:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11744,7 +11747,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:voiceIcon
+     * @attr name net.vpnsdk.cpz:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -11758,7 +11761,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.agewnet.sfj:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme net.vpnsdk.cpz:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -11833,7 +11836,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11841,7 +11844,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:popupTheme
+     * @attr name net.vpnsdk.cpz:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -11963,17 +11966,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.agewnet.sfj:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.agewnet.sfj:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.agewnet.sfj:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.agewnet.sfj:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.agewnet.sfj:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.agewnet.sfj:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.agewnet.sfj:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.agewnet.sfj:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.agewnet.sfj:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.agewnet.sfj:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.agewnet.sfj:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText net.vpnsdk.cpz:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack net.vpnsdk.cpz:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth net.vpnsdk.cpz:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding net.vpnsdk.cpz:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance net.vpnsdk.cpz:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding net.vpnsdk.cpz:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint net.vpnsdk.cpz:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode net.vpnsdk.cpz:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track net.vpnsdk.cpz:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint net.vpnsdk.cpz:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode net.vpnsdk.cpz:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -12029,27 +12032,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#showText}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:showText
+     * @attr name net.vpnsdk.cpz:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:splitTrack
+     * @attr name net.vpnsdk.cpz:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12058,11 +12061,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:switchMinWidth
+     * @attr name net.vpnsdk.cpz:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12071,11 +12074,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:switchPadding
+     * @attr name net.vpnsdk.cpz:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12083,11 +12086,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:switchTextAppearance
+     * @attr name net.vpnsdk.cpz:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12096,22 +12099,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:thumbTextPadding
+     * @attr name net.vpnsdk.cpz:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:thumbTint
+     * @attr name net.vpnsdk.cpz:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12128,11 +12131,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:thumbTintMode
+     * @attr name net.vpnsdk.cpz:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#track}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12140,22 +12143,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:track
+     * @attr name net.vpnsdk.cpz:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:trackTint
+     * @attr name net.vpnsdk.cpz:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12172,7 +12175,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:trackTintMode
+     * @attr name net.vpnsdk.cpz:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -12193,8 +12196,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.agewnet.sfj:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.agewnet.sfj:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily net.vpnsdk.cpz:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps net.vpnsdk.cpz:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -12360,17 +12363,17 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:fontFamily
+     * @attr name net.vpnsdk.cpz:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12380,7 +12383,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.agewnet.sfj:textAllCaps
+     * @attr name net.vpnsdk.cpz:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -12392,33 +12395,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.agewnet.sfj:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.agewnet.sfj:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.agewnet.sfj:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.agewnet.sfj:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.agewnet.sfj:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.agewnet.sfj:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.agewnet.sfj:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.agewnet.sfj:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.agewnet.sfj:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.agewnet.sfj:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.agewnet.sfj:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.agewnet.sfj:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.agewnet.sfj:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.agewnet.sfj:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.agewnet.sfj:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.agewnet.sfj:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.agewnet.sfj:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.agewnet.sfj:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.agewnet.sfj:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.agewnet.sfj:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.agewnet.sfj:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.agewnet.sfj:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.agewnet.sfj:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.agewnet.sfj:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.agewnet.sfj:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.agewnet.sfj:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.agewnet.sfj:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity net.vpnsdk.cpz:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription net.vpnsdk.cpz:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon net.vpnsdk.cpz:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd net.vpnsdk.cpz:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions net.vpnsdk.cpz:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft net.vpnsdk.cpz:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight net.vpnsdk.cpz:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart net.vpnsdk.cpz:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation net.vpnsdk.cpz:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo net.vpnsdk.cpz:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription net.vpnsdk.cpz:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight net.vpnsdk.cpz:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription net.vpnsdk.cpz:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon net.vpnsdk.cpz:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme net.vpnsdk.cpz:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle net.vpnsdk.cpz:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance net.vpnsdk.cpz:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor net.vpnsdk.cpz:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title net.vpnsdk.cpz:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin net.vpnsdk.cpz:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom net.vpnsdk.cpz:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd net.vpnsdk.cpz:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart net.vpnsdk.cpz:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop net.vpnsdk.cpz:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins net.vpnsdk.cpz:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance net.vpnsdk.cpz:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor net.vpnsdk.cpz:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -12503,7 +12506,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12516,21 +12519,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:buttonGravity
+     * @attr name net.vpnsdk.cpz:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:collapseContentDescription
+     * @attr name net.vpnsdk.cpz:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12538,11 +12541,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:collapseIcon
+     * @attr name net.vpnsdk.cpz:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12551,11 +12554,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetEnd
+     * @attr name net.vpnsdk.cpz:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12564,11 +12567,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetEndWithActions
+     * @attr name net.vpnsdk.cpz:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12577,11 +12580,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetLeft
+     * @attr name net.vpnsdk.cpz:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12590,11 +12593,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetRight
+     * @attr name net.vpnsdk.cpz:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12603,11 +12606,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetStart
+     * @attr name net.vpnsdk.cpz:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12616,11 +12619,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:contentInsetStartWithNavigation
+     * @attr name net.vpnsdk.cpz:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#logo}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12628,21 +12631,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:logo
+     * @attr name net.vpnsdk.cpz:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:logoDescription
+     * @attr name net.vpnsdk.cpz:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12651,21 +12654,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:maxButtonHeight
+     * @attr name net.vpnsdk.cpz:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:navigationContentDescription
+     * @attr name net.vpnsdk.cpz:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12673,11 +12676,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:navigationIcon
+     * @attr name net.vpnsdk.cpz:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12685,21 +12688,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:popupTheme
+     * @attr name net.vpnsdk.cpz:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:subtitle
+     * @attr name net.vpnsdk.cpz:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12707,32 +12710,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:subtitleTextAppearance
+     * @attr name net.vpnsdk.cpz:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:subtitleTextColor
+     * @attr name net.vpnsdk.cpz:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#title}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.agewnet.sfj:title
+     * @attr name net.vpnsdk.cpz:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12741,11 +12744,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:titleMargin
+     * @attr name net.vpnsdk.cpz:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12754,11 +12757,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:titleMarginBottom
+     * @attr name net.vpnsdk.cpz:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12767,11 +12770,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:titleMarginEnd
+     * @attr name net.vpnsdk.cpz:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12780,11 +12783,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:titleMarginStart
+     * @attr name net.vpnsdk.cpz:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12793,11 +12796,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:titleMarginTop
+     * @attr name net.vpnsdk.cpz:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12806,11 +12809,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:titleMargins
+     * @attr name net.vpnsdk.cpz:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12818,18 +12821,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:titleTextAppearance
+     * @attr name net.vpnsdk.cpz:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:titleTextColor
+     * @attr name net.vpnsdk.cpz:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -12841,9 +12844,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.agewnet.sfj:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.agewnet.sfj:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.agewnet.sfj:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd net.vpnsdk.cpz:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart net.vpnsdk.cpz:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme net.vpnsdk.cpz:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -12863,8 +12866,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.agewnet.sfj:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.agewnet.sfj:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint net.vpnsdk.cpz:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode net.vpnsdk.cpz:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -12889,18 +12892,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.agewnet.sfj:backgroundTint
+     * @attr name net.vpnsdk.cpz:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12917,7 +12920,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.agewnet.sfj:backgroundTintMode
+     * @attr name net.vpnsdk.cpz:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -13005,7 +13008,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13014,11 +13017,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:paddingEnd
+     * @attr name net.vpnsdk.cpz:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13027,11 +13030,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.agewnet.sfj:paddingStart
+     * @attr name net.vpnsdk.cpz:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.agewnet.sfj.R.attr#theme}
+     * <p>This symbol is the offset where the {@link net.vpnsdk.cpz.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13039,7 +13042,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.agewnet.sfj:theme
+     * @attr name net.vpnsdk.cpz:theme
      */
     public static final int View_theme=4;
   }
